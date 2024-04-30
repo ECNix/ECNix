@@ -1,0 +1,5 @@
+# About Me
+I am a computer science major at Baylor University with a concentration in software engineering. I hope to find work in embedded systems after graduation in May 2025, as I find particular joy in building a program's infrastructure from the ground up. I am familiar with UML diagrams, and find domain models particularly enjoyable and useful to construct. I hope to one day be a software manager, as I am comfortable with positions of authority and am able to look at a project wholistically to make sure scope doesn't creep to high and determine the best path forward to meet the deadline with a high quality product. Of course, I shall need more experience in the field before assuming such a position
+
+# About My GitHub
+Here I hope to aggregate all of my best products into their own repositories as an archive. Some of them were solo projects, while others were the result of group collaboration, either voluntary or school-related. Contained within will be examples of web development, frontend-heavy code, and object orientation. Each project will have a description of why it was made, my contributions to that project, and some of the skills it highlights.
