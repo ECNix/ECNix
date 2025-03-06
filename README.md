@@ -1,2 +1,9 @@
 # About Me
 I am a computer science major at Baylor University with a concentration in software engineering. I hope to find work in some form of application development after graduation in May 2025, as I find particular joy in building a program's infrastructure from the ground up. I am familiar with UML diagrams, and find domain models particularly enjoyable and useful to construct. I hope to one day be a software manager, as I am comfortable with positions of authority when I am given one. I am able to look at a project wholistically to make sure scope doesn't creep to high and determine the best path forward to meet the deadline with a high quality product. Of course, I shall need more experience in the field before assuming such a position.
+
+Projects I have worked on that I am unable to share here include:
+- Developed a frontend using PyQT5 and had a heavy hand in helping design a multithreaded, event-based message system for live data analysis.
+- Developed a simulation of dielectric breakdown replicating research papers. This ultimately didn't achieve what we wanted, but I learned a great deal about such simulations and am confident that a second attempt would be vastly improved.
+- Packaged a large third-party library (FFmpeg) for my company's specific purposes on Windows and for Windows. This gave me tremendous experience with debugging and the general compilation and linking process, as well as working on one problem for an extended period of time.
+- Wrote a CMake for a coworker's code to build a dll which used multiple external and internal libraries.
+- Wrote a peer-to-peer network in Java capable of downloading files of any type to my computer and allowing them to download folders from mine. This was a school assignment, so I had some guidance, but my solution was unique. My professor has requested I not upload my code.
